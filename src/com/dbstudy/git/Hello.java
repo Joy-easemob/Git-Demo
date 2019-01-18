@@ -6,6 +6,6 @@ package com.dbstudy.git;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("我是master的第二次提交，这里显示我的本地库没有更改。。。");
+        System.out.println("我是master的第三次提交，这里次不管远程库是什么都只能是我，而且joy不知道我已经push到远程库了。。。");
     }
 }
