@@ -6,6 +6,6 @@ package com.dbstudy.git;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("我是master的第一次提交。。。");
+        System.out.println("我是joy的第一次提交，我是为了验证idea的合并冲突。。。");
     }
 }
