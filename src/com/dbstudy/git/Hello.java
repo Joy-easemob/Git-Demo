@@ -6,6 +6,6 @@ package com.dbstudy.git;
  */
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("我是master的第一次提交。。。");
+        System.out.println("我是master的第二次提交，这里显示我的本地库没有更改。。。");
     }
 }
